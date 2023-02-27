@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: 百度收录检测并自动推送
-Version: 1.0
+Version: 1.1
 Plugin URL:https://www.fish9.cn/archives/388/
 Description: 是一个帮你自动检测并提交页面链接到百度的插件
 Author: 吃猫的鱼
