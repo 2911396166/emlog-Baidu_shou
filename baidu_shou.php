@@ -26,7 +26,7 @@ function get_urls() {
  * 检测页面是否收录
  */
 function  check_urls($checked_url){
-    $url = 'https://api.fish9.cn/api/baidu/'; 
+    $url = 'http://api.fish9.cn/api/baidu/'; 
     $data = '?url='.$checked_url;
     $get = $url.$data;
     $result = file_get_contents($get);
